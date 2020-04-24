@@ -25,6 +25,7 @@ exports.getGitApi = function (req, res) {
 
     });
 }
+//comments
 
 function getGitApiOutput(cb) {
 	var options = {
@@ -46,5 +47,5 @@ function getGitApiOutput(cb) {
 			cb({},body);
 		}
 	})
-	
+
 }
