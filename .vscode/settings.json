@@ -1,0 +1,7 @@
+{
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.postCommitCommand": "push",
+    "git.scanRepositories": [
+        "https://github.com/jyonarra/openshiftnodejs.git"
+    ]
+}
